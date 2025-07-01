@@ -6,7 +6,7 @@
 - 🤝 I’m looking for guidance and collaboration on **React and advanced Spring Framework concepts.**
 - 💬 Ask me about **Java, data structures, and my learning journey!**
 - 📫 How to reach me: **gargisingh160@gmail.com**
-- ⚡ Fun fact: **I'm a big fan of cats! 😺**
+
 
 <h3 align="left">Coding profiles:</h3>
 <p align="left">
